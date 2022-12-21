@@ -3,7 +3,6 @@
 
 Sistema desenvolvido para a gerencia de candidaturas em vagas de emprego.
 
- Desenvolvida uma aplicação completa para candidaturas em vagas de emprego.
 
 
 ## Tecnologias e práticas utilizadas
