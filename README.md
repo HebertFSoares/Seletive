@@ -1,16 +1,14 @@
 
 # Seletive - Django
 
-Sistema desenvolvido para a gerencia de candidaturas em vagas de emprego.
-
-
+O Seletive é um sistema robusto desenvolvido em Django, projetado para otimizar o gerenciamento de candidaturas em vagas de emprego. Ao oferecer uma abordagem organizada e eficaz, o Seletive simplifica o processo seletivo, desde o cadastro de empresas até o acompanhamento das tarefas e comunicação.
 
 ## Tecnologias e práticas utilizadas
 
  - Python
  - Django 
  - SQLite
- - Arquitetura MVT
+ - HTML/CSS
  
 ## Funcionalidades
  - Cadastrar/Excluir empresas;
